@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gt.payment.mpos.dvl",
+    "sha256_cert_fingerprints":
+    ["DE:45:C7:F9:B2:16:18:66:2A:4F:1C:6C:D1:0C:3C:11:3B:30:9D:64:5C:BE:AA:7C:11:BD:4C:AF:DE:17:79:83"]
+  }
+}]
